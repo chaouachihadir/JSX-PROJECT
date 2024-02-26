@@ -1,0 +1,49 @@
+/* App.css */
+
+.App {
+  text-align: center;
+}
+/* App.css */
+
+.App {
+  background-image: url('../public/Galaxy.jpg')
+ 
+}
+
+
+
+/* App.css */
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.img-container img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 10px; /* Ajoute une marge autour des images */
+}
+
+
+/* App.css */
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.video-container video {
+  max-width: 100%;
+  height: auto;
+}
+/* App.css */
+
+
+
+
+
